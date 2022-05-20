@@ -37,7 +37,7 @@ echo xd>>%hoal%.css
 echo xd>>%hoal%.rar
 start https://youtu.be/uvXYYFO7h0Q
 goto menu
-foto bucle
+goto bucle
 cls
 echo off
 timeout /T 1 /nobreak
