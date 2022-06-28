@@ -1,6 +1,6 @@
 @echo off
 title Worm
-cd prueba
+cd Desktop
 set worm = 1
 :menu
 cls
